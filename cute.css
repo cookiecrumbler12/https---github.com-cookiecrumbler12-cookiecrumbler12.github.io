@@ -1,6 +1,4 @@
-h1 {
-    color: red;
-}
+
 p,
 li {
     color: green;
@@ -12,7 +10,5 @@ li {
 }
 
 h1 {
-    text-shadow: 
-      1px 1px 1px beige
-      2px 2px 1px beige
+    text-shadow: 2px 2px 1px beige;
 }
