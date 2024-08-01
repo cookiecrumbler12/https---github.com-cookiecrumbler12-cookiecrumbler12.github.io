@@ -1,7 +1,7 @@
 
 p,
 li {
-    color: green;
+    color: rgb(11, 46, 71);
 }
 
 .special {
@@ -13,7 +13,7 @@ h1 {
     text-shadow: 2px 2px 1px rebeccapurple;
 }
 body{
-    background-color: rgb(166, 11, 11);
+    background-color: rgb(17, 117, 135);
 }
 p{
     color: #3bcb0f;
